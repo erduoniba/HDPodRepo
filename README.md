@@ -135,8 +135,6 @@ end
 
 #### 5、pod使用自己的私有仓库来替换cocoapods的仓库，这样同样的不需要审核流程，自己管理所有的 podsepc文件，需要加上tag来拉取指定的代码
 
-
-
 [使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/) 
 
 1. 创建并设置一个私有的`Spec Repo`。这个仓库你可以创建私有的也可以创建公开的，不过既然私有的`Spec Repo`，还是创建私有的仓库吧。创建完成之后在`Terminal`中执行如下命令
