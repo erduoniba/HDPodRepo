@@ -1,0 +1,25 @@
+{
+  "name": "HDStaticPod",
+  "version": "0.1.0",
+  "summary": "A short description of HDStaticPod.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/erduoniba/HDStaticPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "denglibing": "denglibing@hd.com"
+  },
+  "source": {
+    "http": "http://127.0.0.1:27017/HDDemoApp/frameworks/HDStaticPod/0.1.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "bin_HDStaticPod_0.1.0/Headers/*",
+  "static_framework": true,
+  "public_header_files": "bin_HDStaticPod_0.1.0/Headers/*.h",
+  "vendored_libraries": "bin_HDStaticPod_0.1.0/*.a"
+}
