@@ -12,7 +12,7 @@
     "denglibing": "denglibing@hd.com"
   },
   "source": {
-    "http": "http://127.0.0.1:27017/HDDemoApp/frameworks/HDStaticPod/0.1.0/zip",
+    "http": "http://127.0.0.1:27017/frameworks/HDStaticPod/0.1.0/zip",
     "type": "zip"
   },
   "platforms": {
