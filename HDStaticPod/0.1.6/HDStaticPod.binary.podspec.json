@@ -12,7 +12,7 @@
     "denglibing": "denglibing@hd.com"
   },
   "source": {
-    "http": "http://10.252.16.41:8080/frameworks/HDStaticPod/0.1.6.zip",
+    "http": "http://10.252.16.41:8080/frameworks/HDStaticPod/0.1.6/zip",
     "type": "zip"
   },
   "platforms": {
